@@ -1,4 +1,6 @@
 {
+  "launcher_version": "1.0.0.0",
+  "launcher_download_url": "https://github.com/Kebuzya/KebuzLoncher/releases/latest",
   "games": [
     {
       "id": "repa",
